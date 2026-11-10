@@ -193,6 +193,7 @@ main h2+p,main h3+p{margin-top:14px}
 .dtable td{padding:12px 14px;border-top:1px solid var(--line);vertical-align:top;color:var(--ink)}
 .dtable tr:nth-child(even) td{background:var(--soft)}
 .dtable td:first-child{font-weight:700}
+.dtable-2{min-width:0}.dtable-2 td:first-child{width:36%}
 .compare{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
 .comp{border-radius:16px;padding:22px}
 .comp.diy{background:var(--soft);border:1px solid var(--line)}
